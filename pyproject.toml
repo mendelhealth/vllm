@@ -3,7 +3,7 @@ requires = [
     "ninja",
     "packaging",
     "setuptools",
-    "torch @ git+https://download.pytorch.org/whl/nightly/cu121"
+    "torch @ git+https://download.pytorch.org/whl/nightly/cu121",
     "wheel",
 ]
 build-backend = "setuptools.build_meta"
